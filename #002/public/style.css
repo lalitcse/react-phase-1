@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body{
+background-color: whitesmoke;
+font-family: 'Roboto', sans-serif;
+}
+
+.contact-list{
+    margin: auto;
+    padding: 30px;
+    width: 70%;
+    text-align: center;
+}
+
+.contact-card img{
+    width: 50%;
+    margin: auto;
+}
